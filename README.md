@@ -13,10 +13,7 @@
 
 - ⚡ Fun fact **I can turn coffee x technoMusic into CODE**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eya rayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eya rayes" height="30" width="40" /></a>
-</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyarayes&show_icons=true&locale=en&layout=compact" alt="eyarayes" /></p>
@@ -26,4 +23,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyarayes&" alt="eyarayes" /></p>
 
 
-salla7li hedha fih hajet madch ykhdmou 
